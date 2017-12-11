@@ -1,0 +1,3 @@
+This is the controller layer.
+Here are performed operations with the data within the repository.
+Each controller has a suggestive name to understand what he does, as well as commentaries for almost each method.
