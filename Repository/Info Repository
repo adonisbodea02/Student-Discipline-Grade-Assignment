@@ -1,0 +1,4 @@
+This is the repository layer.
+Here are performed CRUD (create, read, update, delete) operations with the data.
+Each repository has a suggestive name to understand what he does, as well as commentaries for almost each method.
+There are 3 different kinds of repositories, each used for a certain way of given data. As the names suggest, one is for in memory data (DisciplineRepository for example), one for files (StudentRepositoryFile) and one for binary files (GradeRepositoryPickle - pickle is an in-built library in Python which helps with reading and writing binary files)
