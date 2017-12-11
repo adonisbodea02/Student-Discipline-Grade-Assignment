@@ -1,0 +1,14 @@
+1;How to draw manga
+2;Japanese
+3;Philosophy
+4;Anime
+5;Algebra
+6;Introduction to Economics
+7;Mathematical Analysis
+8;Football
+9;Table Tennis
+10;Tennis
+11;Introduction to Algorithms
+12;Dragons Language
+13;Introduction to How not to be a Social Outcast
+14;Game Theory

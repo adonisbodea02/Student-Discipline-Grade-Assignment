@@ -1,0 +1,36 @@
+1;Mio Naruse
+2;Sheldon Cooper
+3;Joey Tribbiani
+4;Monica Bing
+5;Chandler Bing
+6;Natsu Dragneel
+7;Akeno Himejima
+8;Donald Trump
+9;Friedrich Nietzsche
+10;Immanuel Kant
+11;Emmanuele Macron
+12;Aine Chidorigafuchi
+13;Sterling Archer
+14;Kylian Mbappe Lottin
+15;Ross Barkley
+16;Adam Smith
+17;Arthur Schopenhauer
+18;Sherlock Holmes
+19;Hercule Poirot
+20;Marin Preda
+21;Sasuke Uchiha
+22;Itachi Uchiha
+23;Light Yagami
+24;Axl Rose
+25;Harry Potter
+26;Gottfried Wilhelm von Leibniz
+27;Rene Descartes
+28;Antoine Griezmann
+29;Rafael Nadal
+30;Barney Stinson
+31;Lucy Heartfilia
+32;Edward Elric
+33;Erza Scarlet
+34;Sena Kashiwazaki
+35;Yusuke Urameshi
+36;John von Neumann
