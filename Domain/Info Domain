@@ -1,0 +1,3 @@
+This is the domain layer.
+Here we define the entities with which we are going to work, in this case students, disciplines and grades.
+Each entity has a suggestive name to understand what he does, as well as commentaries for almost each method.
